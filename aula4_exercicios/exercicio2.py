@@ -39,3 +39,5 @@ else:
 # Imprime o resultado, se não for None
 if resultado is not None:
     print("Resultado:", resultado)
+
+    

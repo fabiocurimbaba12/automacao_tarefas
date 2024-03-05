@@ -42,3 +42,5 @@ while True:
     # Se o usuário escolher 'N', o loop é interrompido
     if continuar == 'N':
         break
+
+
